@@ -1,0 +1,18 @@
+I prelude1.inc
++ f.txt wug.txt
+> add f.txt
+<<<
++ g.txt wug.txt
+> add g.txt
+<<<
+> commit "add f.txt and g.txt"
+<<<
+> branch temp
+<<<
+> checkout temp
+<<<
++ k.txt notwug.txt
+> add k.txt
+<<<
+> commit "add k.txt"
+<<<

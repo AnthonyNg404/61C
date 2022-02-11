@@ -1,0 +1,25 @@
+I prelude1.inc
++ h.txt wug.txt
+> add h.txt
+<<<
+> commit "add h.txt"
+<<<
+> branch other
+<<<
+> status
+=== Branches ===
+*master
+other
+
+=== Staged Files ===
+
+=== Removed Files ===
+
+=== Modifications Not Staged For Commit ===
+
+=== Untracked Files ===
+
+<<<
+> merge other
+Current branch fast-forwarded.
+<<<

@@ -1,0 +1,13 @@
+#*java -ea loa.Main
+# Set up a winnable position and see if AI can win.
+manual White
+dump
+d1-b3
+dump
+h4-f4
+undo
+dump
+e8-e6
+h2-f2
+dump
+quit

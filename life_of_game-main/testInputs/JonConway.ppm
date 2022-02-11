@@ -1,0 +1,2 @@
+usage: ./imageloadertester filename
+filename is an ASCII PPM file (type P3) with maximum value 255.
